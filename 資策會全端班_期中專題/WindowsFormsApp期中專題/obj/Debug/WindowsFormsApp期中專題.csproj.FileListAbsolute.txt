@@ -1,0 +1,68 @@
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csprojAssemblyReference.cache
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.GenerateResource.cache
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.CoreCompileInputs.cache
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe.config
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Properties.Resources.resources
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.exe
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe.config
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form1.resources
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form2.resources
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form3.resources
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Properties.Resources.resources
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.exe
+C:\Users\iii\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form1.resources
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form2.resources
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form3.resources
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form簡易修改介面.resources
+C:\Users\Sharkon\Desktop\WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form管理介面.resources
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe.config
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form1.resources
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form2.resources
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form3.resources
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form管理介面.resources
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form簡易修改介面.resources
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Properties.Resources.resources
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.exe
+C:\Users\iii\Desktop\[V04]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe.config
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form1.resources
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form2.resources
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form3.resources
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form管理介面.resources
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form簡易修改介面.resources
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Properties.Resources.resources
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.exe
+C:\Users\iii\Desktop\Yuchi's portfolio\202104 - 資策會 - 期中專題 - winform訂購系統\[V05 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe.config
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.exe
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\bin\Debug\WindowsFormsApp期中專題.pdb
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csprojAssemblyReference.cache
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form1.resources
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form2.resources
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form3.resources
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form管理介面.resources
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Form簡易修改介面.resources
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.Properties.Resources.resources
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.GenerateResource.cache
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.csproj.CoreCompileInputs.cache
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.exe
+C:\Users\Sharkon\Desktop\[V06 期中第一次報告]WindowsFormsApp期中專題\WindowsFormsApp期中專題\obj\Debug\WindowsFormsApp期中專題.pdb

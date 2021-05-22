@@ -1,0 +1,12 @@
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\bin\Debug\WindowsFormsAppTEST.exe.config
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\bin\Debug\WindowsFormsAppTEST.exe
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\bin\Debug\WindowsFormsAppTEST.pdb
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.csprojAssemblyReference.cache
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.Form1.resources
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.Properties.Resources.resources
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.csproj.GenerateResource.cache
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.csproj.CoreCompileInputs.cache
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.exe
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.pdb
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.Form2.resources
+C:\Users\Sharkon\Desktop\WindowsFormsAppTEST\WindowsFormsAppTEST\obj\Debug\WindowsFormsAppTEST.Form3.resources
